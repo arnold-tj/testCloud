@@ -1,0 +1,6 @@
+@webnube_HostAddress = http://localhost:5181
+
+GET {{webnube_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
